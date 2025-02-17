@@ -18,3 +18,8 @@ GITHUB USERNAME - Whiz-tek
 NAME - Kopsam Elisha Leyden
 MATRIC NUMBER - U22CS1078
 GITHUB USERNAME - ElishaLeyden
+
+
+NAME - Jude Thompson Aligit
+MATRIC NUMBER - U22CS1074
+GITHUB USERNAME - Jude-ent
