@@ -2,3 +2,7 @@
 #NAME - Jang Dante Yiram
 #MATRIC NUMBER - U22CS1072
 #GITHUB USERNAME - Te-da-ni
+
+#NAME - Maigidaje Hidaya Mannir
+#MATRIC NUMBER - U22CS1081
+#GITHUB USERNAME - Daneena4
